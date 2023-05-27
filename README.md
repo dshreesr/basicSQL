@@ -5,3 +5,5 @@ The database has following tables :
 2. likes - details of likes each photo has on the application - photo liked, who has liked it.
 3. photos - details of the photo posted like photo_id, user_id who posted it, when it was posted.
 4. tags - hashtags added to each photo.
+
+Please have a look at projects file for details of the queries.
